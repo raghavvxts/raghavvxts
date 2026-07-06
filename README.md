@@ -368,23 +368,7 @@ Building production-oriented software, AI/ML applications, distributed IoT produ
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raghavvxts&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=raghavvxts&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavvxts&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=raghavvxts&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
+<img width="70%" src="https://streak-stats.demolab.com?user=raghavvxts&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 
 </div>
 
