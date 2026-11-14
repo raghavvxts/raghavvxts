@@ -378,7 +378,11 @@ Building production-oriented software, AI/ML applications, distributed IoT produ
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raghavvxts&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&area_color=4F46E5" alt="Contribution Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghavvxts/raghavvxts/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghavvxts/raghavvxts/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution activity chart" src="https://raw.githubusercontent.com/raghavvxts/raghavvxts/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
