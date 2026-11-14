@@ -378,11 +378,7 @@ Building production-oriented software, AI/ML applications, distributed IoT produ
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghavvxts/raghavvxts/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghavvxts/raghavvxts/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution activity chart" src="https://raw.githubusercontent.com/raghavvxts/raghavvxts/output/github-contribution-grid-snake.svg">
-</picture>
+<img width="100%" src="https://raw.githubusercontent.com/raghavvxts/raghavvxts/output/contribution-activity.svg" alt="Daily GitHub contributions over the past year" />
 
 </div>
 
